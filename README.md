@@ -35,14 +35,14 @@ La balle rebondit sur les murs et les coffres. L'orientation et la direction de 
 Le joueur doit vider les coffres en les touchant avec la balle. A la fin de chaque partie un temps sera relevé. Vous pouvez saisir votre Nom.
 
 ### Guide des touches
-F1 : Pour passer au niveau 1 en cours de jeu
-F2 : Pour passer au niveau 2 en cours de jeu
-ECHAPE : Pour quittert le jeu
+* F1 : Pour passer au niveau 1 en cours de jeu
+* F2 : Pour passer au niveau 2 en cours de jeu
+* ECHAPE : Pour quittert le jeu
 
 A la fin de chaque partie:
-F9 : Pour redemarrer au niveau 1
-ENTREE: Pour valider votre score
-ECHAPE: Pour quitter le jeu
+* F9 : Pour redemarrer au niveau 1
+* ENTREE: Pour valider votre score
+* ECHAPE: Pour quitter le jeu
 
 ### Resultat des scores
 Ces derniers sont stockés en HTML et en json.
